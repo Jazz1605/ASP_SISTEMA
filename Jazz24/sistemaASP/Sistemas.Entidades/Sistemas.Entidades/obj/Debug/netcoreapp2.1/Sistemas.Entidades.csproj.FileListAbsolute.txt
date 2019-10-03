@@ -1,0 +1,36 @@
+D:\LP2\sistemaASP\Sistemas.Entidades\Sistemas.Entidades\bin\Debug\netcoreapp2.1\Sistemas.Entidades.deps.json
+D:\LP2\sistemaASP\Sistemas.Entidades\Sistemas.Entidades\bin\Debug\netcoreapp2.1\Sistemas.Entidades.dll
+D:\LP2\sistemaASP\Sistemas.Entidades\Sistemas.Entidades\bin\Debug\netcoreapp2.1\Sistemas.Entidades.pdb
+D:\LP2\sistemaASP\Sistemas.Entidades\Sistemas.Entidades\obj\Debug\netcoreapp2.1\Sistemas.Entidades.csprojAssemblyReference.cache
+D:\LP2\sistemaASP\Sistemas.Entidades\Sistemas.Entidades\obj\Debug\netcoreapp2.1\Sistemas.Entidades.csproj.CoreCompileInputs.cache
+D:\LP2\sistemaASP\Sistemas.Entidades\Sistemas.Entidades\obj\Debug\netcoreapp2.1\Sistemas.Entidades.AssemblyInfoInputs.cache
+D:\LP2\sistemaASP\Sistemas.Entidades\Sistemas.Entidades\obj\Debug\netcoreapp2.1\Sistemas.Entidades.AssemblyInfo.cs
+D:\LP2\sistemaASP\Sistemas.Entidades\Sistemas.Entidades\obj\Debug\netcoreapp2.1\Sistemas.Entidades.dll
+D:\LP2\sistemaASP\Sistemas.Entidades\Sistemas.Entidades\obj\Debug\netcoreapp2.1\Sistemas.Entidades.pdb
+D:\c#\sistemaASP\Sistemas.Entidades\Sistemas.Entidades\bin\Debug\netcoreapp2.1\Sistemas.Entidades.deps.json
+D:\c#\sistemaASP\Sistemas.Entidades\Sistemas.Entidades\bin\Debug\netcoreapp2.1\Sistemas.Entidades.dll
+D:\c#\sistemaASP\Sistemas.Entidades\Sistemas.Entidades\bin\Debug\netcoreapp2.1\Sistemas.Entidades.pdb
+D:\c#\sistemaASP\Sistemas.Entidades\Sistemas.Entidades\obj\Debug\netcoreapp2.1\Sistemas.Entidades.csprojAssemblyReference.cache
+D:\c#\sistemaASP\Sistemas.Entidades\Sistemas.Entidades\obj\Debug\netcoreapp2.1\Sistemas.Entidades.csproj.CoreCompileInputs.cache
+D:\c#\sistemaASP\Sistemas.Entidades\Sistemas.Entidades\obj\Debug\netcoreapp2.1\Sistemas.Entidades.AssemblyInfoInputs.cache
+D:\c#\sistemaASP\Sistemas.Entidades\Sistemas.Entidades\obj\Debug\netcoreapp2.1\Sistemas.Entidades.AssemblyInfo.cs
+D:\c#\sistemaASP\Sistemas.Entidades\Sistemas.Entidades\obj\Debug\netcoreapp2.1\Sistemas.Entidades.dll
+D:\c#\sistemaASP\Sistemas.Entidades\Sistemas.Entidades\obj\Debug\netcoreapp2.1\Sistemas.Entidades.pdb
+E:\DATOS\C#ASP\sistemaASP\Sistemas.Entidades\Sistemas.Entidades\bin\Debug\netcoreapp2.1\Sistemas.Entidades.deps.json
+E:\DATOS\C#ASP\sistemaASP\Sistemas.Entidades\Sistemas.Entidades\bin\Debug\netcoreapp2.1\Sistemas.Entidades.dll
+E:\DATOS\C#ASP\sistemaASP\Sistemas.Entidades\Sistemas.Entidades\bin\Debug\netcoreapp2.1\Sistemas.Entidades.pdb
+E:\DATOS\C#ASP\sistemaASP\Sistemas.Entidades\Sistemas.Entidades\obj\Debug\netcoreapp2.1\Sistemas.Entidades.csprojAssemblyReference.cache
+E:\DATOS\C#ASP\sistemaASP\Sistemas.Entidades\Sistemas.Entidades\obj\Debug\netcoreapp2.1\Sistemas.Entidades.csproj.CoreCompileInputs.cache
+E:\DATOS\C#ASP\sistemaASP\Sistemas.Entidades\Sistemas.Entidades\obj\Debug\netcoreapp2.1\Sistemas.Entidades.AssemblyInfoInputs.cache
+E:\DATOS\C#ASP\sistemaASP\Sistemas.Entidades\Sistemas.Entidades\obj\Debug\netcoreapp2.1\Sistemas.Entidades.AssemblyInfo.cs
+E:\DATOS\C#ASP\sistemaASP\Sistemas.Entidades\Sistemas.Entidades\obj\Debug\netcoreapp2.1\Sistemas.Entidades.dll
+E:\DATOS\C#ASP\sistemaASP\Sistemas.Entidades\Sistemas.Entidades\obj\Debug\netcoreapp2.1\Sistemas.Entidades.pdb
+D:\Documentos Instructor\Music\Jazz24\sistemaASP\Sistemas.Entidades\Sistemas.Entidades\bin\Debug\netcoreapp2.1\Sistemas.Entidades.deps.json
+D:\Documentos Instructor\Music\Jazz24\sistemaASP\Sistemas.Entidades\Sistemas.Entidades\bin\Debug\netcoreapp2.1\Sistemas.Entidades.dll
+D:\Documentos Instructor\Music\Jazz24\sistemaASP\Sistemas.Entidades\Sistemas.Entidades\bin\Debug\netcoreapp2.1\Sistemas.Entidades.pdb
+D:\Documentos Instructor\Music\Jazz24\sistemaASP\Sistemas.Entidades\Sistemas.Entidades\obj\Debug\netcoreapp2.1\Sistemas.Entidades.csprojAssemblyReference.cache
+D:\Documentos Instructor\Music\Jazz24\sistemaASP\Sistemas.Entidades\Sistemas.Entidades\obj\Debug\netcoreapp2.1\Sistemas.Entidades.csproj.CoreCompileInputs.cache
+D:\Documentos Instructor\Music\Jazz24\sistemaASP\Sistemas.Entidades\Sistemas.Entidades\obj\Debug\netcoreapp2.1\Sistemas.Entidades.AssemblyInfoInputs.cache
+D:\Documentos Instructor\Music\Jazz24\sistemaASP\Sistemas.Entidades\Sistemas.Entidades\obj\Debug\netcoreapp2.1\Sistemas.Entidades.AssemblyInfo.cs
+D:\Documentos Instructor\Music\Jazz24\sistemaASP\Sistemas.Entidades\Sistemas.Entidades\obj\Debug\netcoreapp2.1\Sistemas.Entidades.dll
+D:\Documentos Instructor\Music\Jazz24\sistemaASP\Sistemas.Entidades\Sistemas.Entidades\obj\Debug\netcoreapp2.1\Sistemas.Entidades.pdb
